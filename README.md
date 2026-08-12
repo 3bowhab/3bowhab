@@ -54,6 +54,6 @@ My name is **Ali Abdelwahab** and I'm a **Flutter Developer** passionate about b
 
 <p align="center">
   <a href="https://github.com/3bowhab">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=3bowhab&show_icons=true&line_height=27&count_private=true&title_color=0175C2&text_color=c9cacc&icon_color=02569B&bg_color=1d1f21&hide=stars" alt="Ali's GitHub Stats" width="65%" />
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=3bowhab&show_icons=true&line_height=27&count_private=true&title_color=0175C2&text_color=c9cacc&icon_color=02569B&bg_color=1d1f21&hide=stars" alt="Ali's GitHub Stats" width="65%" />
   </a>
 </p>
